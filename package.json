@@ -16,7 +16,8 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "relative": "^3.0.2"
+    "relative": "^3.0.2",
+    "lodash": "=4.14.1"
   },
   "devDependencies": {
     "coffeelint": "^1.14.2"
