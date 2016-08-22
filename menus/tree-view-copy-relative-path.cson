@@ -2,6 +2,6 @@
   '.tree-view .file': [
     {
       'label': 'Copy Relative Path'
-      'command': 'tree-view-copy-relative-path:copy-path'
+      'command': 'copy-es6-import:copy-path'
     }
   ]
