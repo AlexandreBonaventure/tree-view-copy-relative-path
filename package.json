@@ -7,7 +7,7 @@
     "es6",
     "path",
     "import",
-    "module",
+    "module"
   ],
   "activationCommands": {
     "atom-workspace": "copy-es6-import:copy-path"
